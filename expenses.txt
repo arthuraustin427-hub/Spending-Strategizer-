@@ -1,0 +1,12 @@
+# Smart Spending Strategizer - Expense File
+# Format: category, description, amount
+
+rent, monthly rent, 1200
+food, groceries, 310
+transport, gas, 140
+utilities, electric and wifi, 120
+dining, restaurants, 200
+entertainment, streaming, 90
+shopping, clothes, 150
+savings, emergency fund, 400
+investment, 401k, 170
